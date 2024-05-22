@@ -55,9 +55,7 @@ Class MisDatos{
 </p>
 <!--
 **VPoma/Vpoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -67,9 +65,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-<h1>Soy bueno en:</h1>
+<!--<h1>Soy bueno en:</h1>-->
 <!--<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>-->
 <!--<img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>-->
 <!--<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>-->
--->
+
