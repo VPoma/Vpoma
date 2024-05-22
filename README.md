@@ -34,6 +34,15 @@ Class MisDatos{
 }
 ?>
 ```
+## Soy bueno en: 🧑‍💻 :
+
+<br>
+
+ <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<br>
+
  ### 👉 Herramientas Tecnologicas
  
 <p>
@@ -57,4 +66,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+<h1>Soy bueno en:</h1>
+<!--<img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>-->
+<!--<img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>-->
+<!--<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>-->
 -->
