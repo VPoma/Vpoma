@@ -8,12 +8,19 @@
 <?PHP
 Class MisDatos{
 
-  public functions DatosPersonales{
+  public function DatosPersonales(){
     $nombre_completo = "Victor Max Poma Canchari";
     $profesion = "Ing. de Sistemas e Informática";
     $especialidad = "Desarrollo Web - BACKEND";
     $nivel = "Junior";
     $correo = "victor.pc.xd@gmail.com";
+  }
+
+  public function FormacionAcademica(){
+    $educacion_academica = "UNIVERSIDAD CONTINENTAL - PERÚ (2018)";
+    $cuso01 = "UDEMY - MASTER EN PHP SQL POO MVC ETC (2024)"
+    $curso02 = "TUTELLUS - PROG. ESTRUCTURAL EN PHP (2019)"
+    $curso03 = "CIDERCOMP PERÚ - MS-SQL (2018)"
   }
 
 }
